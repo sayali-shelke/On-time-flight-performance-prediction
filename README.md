@@ -1,1 +1,8 @@
 # On-time-flight-performance-prediction
+
+Commercial airlines are a backbone of the worldwide transportation system, bringing significant socioeconomic utility by enabling cheaper and easier long-distance travel. After more than half a century of mainstream adoption (especially in the US), airline operations have seen major optimizations, and today function with excellent reliability even in the face of onerous engineering challenges. Still, the modern passenger is occasionally inconvenienced by aircraft delays, disrupting an otherwise exacting system and causing significant inefficiencies at scale in 2007, 23% of US flights were more than 15 minutes late to depart (federal definition of flight delay), levying an aggregate cost of $32.9bn on the US economy. Suboptimal weather conditions were the direct cause of ~17% of those delays, suggesting that better understanding of aircraft unfriendly weather could improve airline scheduling and significantly reduce delays.
+
+Our problem deals with flight data from Bureau of Transportation Statistics, USA. We are trying to predict the on- time performance of flights which is a two-stage machine learning problem involving both classification and regression methods. We have used an earlier case study from a previous project as a reference point for our problem statement. The earlier case study only used weather data from the Bureau of Transportation Statistics, USA. In order to optimize and gain better results for predicting the on-time flight prediction, we have taken into consideration two data sets (weather and flight) and have merged them together.
+
+![ScreenShot](https://github.com/sayali-shelke/On-time-flight-performance-prediction/blob/main/Screen%20Shot%202020-11-02%20at%201.45.49%20PM.png)
+
